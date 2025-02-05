@@ -9,7 +9,10 @@ command e(label) "{long label}"
 // Text Data
 l_0xefa0dc:
     "{swap}@[1C 02 00] read the hieroglyphs." next
-    "@<To fight against the invaders, we built this pyramid fortress." next
+    "@<imik nik himat-harad, rihnik hasfat armaw harhultif, nan qab ni-intat mahuwataf>" next
+    "@<You should not sleep with a woman-boy," next
+    " you know the forbidden is water on his heart," next
+    " for there is no cooling what's in his belly.>" next
     "@However, our efforts were futile, and we lost." next
     "@Nonetheless, our pyramid was protected by the gods of Scaraba." next
     "@The invaders will be reborn every millennium and will attack again." next
