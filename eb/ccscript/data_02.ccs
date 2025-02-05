@@ -288,7 +288,7 @@ l_0xc53515:
     eob
 
 l_0xc5352c:
-    "[19 10 01]@" call(data_33.l_0xc7e6c5) ", "It seems that you do not have requisite funds." next
+    "[19 10 01]@" call(data_33.l_0xc7e6c5) ", It seems that you do not have requisite funds." next
     "@ The completion of this transaction is currently unavailable to you." next
     eob goto(l_0xc53562)
 
