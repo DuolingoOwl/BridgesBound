@@ -397,8 +397,7 @@ l_0xc53870:
 l_0xc53897:
     newline
     " <[1C 05 0A]>" next
-    "@It looks like a busted..." pause(10)
-    " water pipe." next
+    "@It looks like it busted" next
     call(data_05.l_0xc56b6f) end
 
 l_0xc538bc:
@@ -410,25 +409,29 @@ l_0xc538bc:
 l_0xc538e0:
     newline
     " <[1C 05 0C]>" next
-    "@A broken tube-shaped item." next
+    "@A LONG broken tube-shaped item." wait(10)
+    " It's almost my length." next
     call(data_05.l_0xc56b6f) end
 
 l_0xc53908:
     newline
     " <[1C 05 0D]>" next
     "@A broken bazooka." next
+    " It's exactly my length!" next
     call(data_05.l_0xc56b6f) end
 
 l_0xc53929:
     newline
     " <[1C 05 0E]>" next
     "@A broken apparatus that is shaped like a trumpet." next
+    " It's two thirds of my length..." next
     call(data_05.l_0xc56b6f) end
 
 l_0xc53960:
     newline
     " <[1C 05 0F]>" next
     "@A broken device that looks like a harmonica." next
+    " It's one fifth of my length..." next
     call(data_05.l_0xc56b6f) end
 
 l_0xc5398e:
@@ -494,7 +497,7 @@ l_0xc53a9f:
     " <[1C 05 1B]>" next
     call(data_05.l_0xc56b8e) next
     "@You can't help but swing this bat with all your might." next
-    "@There's a good chance that you may just whiff." end
+    "@You suddenly think of your beautiful wife..." end
 
 l_0xc53ae6:
     newline
