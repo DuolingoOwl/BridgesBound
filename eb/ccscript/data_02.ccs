@@ -409,7 +409,7 @@ l_0xc538bc:
 l_0xc538e0:
     newline
     " <[1C 05 0C]>" next
-    "@A LONG broken tube-shaped item." wait(10)
+    "@A broken tube-shaped item." next
     " It's almost my length." next
     call(data_05.l_0xc56b6f) end
 
