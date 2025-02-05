@@ -1,0 +1,126 @@
+Ailments:
+  Ailment 01: dead
+  Ailment 02: diamond rihanna
+  Ailment 03: numb linkin park
+  Ailment 04: nauseous
+  Ailment 05: poisoned
+  Ailment 06: henry
+  Ailment 07: sick
+  Ailment 08: shroom'ed
+  Ailment 09: ghost
+  Ailment 10: i want my mommy
+Battle Menu:
+  Auto Fight: autofight
+  Bash: touch
+  Defend: block
+  Do Nothing: do nothing
+  Goods: stuff
+  Mirror: mirror
+  PSI: psi
+  Pray: pray
+  Run Away: pussy out
+  Shoot: shoot
+  Spy: sniff
+Equip Menu:
+  Arms: '     Arms'
+  Arms Window Title: Arms
+  Body: '      Body'
+  Body Window Title: Body
+  Defense: Defense
+  No Equip: '(Nothing) '
+  Offense: Offense
+  Other: '     Other'
+  Other Window Title: Others
+  To: 'To:'
+  Unequip: None
+  Weapon: '  Weapon'
+  Weapon Window Title: Weapons
+Item Menu:
+  Drop: Drop
+  Give: Give
+  Help: Help!
+  Use: Use
+Menu Action Targets:
+  Where: Where?
+  Where 2: Where?
+  Which: Which?
+  Who: Who?
+  Whom: Whom?
+Other:
+  Lumine Hall Text: I used to jerk off to angry birds. When I was about 13 I LOVED angry birds... WAIT YOU GUYS CAN SEE THIS FUCKKKK
+  Player Name Prompt: Register your name, please
+Out of Battle Menu:
+  Check: Check
+  Equip: Equip
+  Goods: Goods
+  PSI: PSI
+  Status: Status
+  Talk to: Talk tuah
+PSI Menu:
+  PP Cost: PP Cost
+  Row Back: the Back Row
+  Row Front: the Front Row
+  Row To: 'To '
+  To all enemies: Tuah all enemies
+  To all of us: Tuah all of us
+  To all of us 2: Tuah all of us
+  To enemy: Tuah enemy
+  To one enemy: Tuah one enemy
+  To one enemy 2: tuah One Enemy
+  To one of us: Tuah one of us
+  To one of us 2: tuah One Friend
+  To row of foes: Tuah row of foes
+  himself: himself
+PSI Types:
+  Assist: Assist
+  Offense: Offense
+  Other: Other
+  Recover: Recover
+Starting Text:
+  Ask Name 1: name this kid.
+  Ask Name 2: name his goth gf.
+  Ask Name 3: name the nerd.
+  Ask Name 4: name the asian.
+  Ask Name Food: favorite food?
+  Ask Name PSI: favorite thing?
+  Ask Name Pet: pet name.
+  Confirm All: u sure?
+  Confirm All No: nah
+  Confirm All Yes: yea
+  Confirm Delete: really?
+  Confirm Delete No: 'nah'
+  Confirm Delete Yes: 'yea'
+  Confirm Food: 'favorite food:'
+  Confirm PSI: 'best thing:'
+  Continue: Continue
+  Copy: Copy
+  Copy to where?: Copy to where?
+  Delete: Delete
+  Select Sound: Please select sound setting.
+  Select Sound Mono: Mono
+  Select Sound Stereo: Stereo
+  Select Speed: Please select text speed.
+  Select Style: Which style of windows do you prefer?
+  Set Up: Set Up
+  Start New Game: Start New Game
+  Text Speed: 'Text Speed:'
+  Text Speed Fast: Fast
+  Text Speed Medium: Medium
+  Text Speed Slow: Slow
+Status Window:
+  Defense: 'Defense:'
+  Exp. for next level: Exp. for next level.
+  Experience Points: 'Experience Points:'
+  Guts: 'Guts:'
+  Hit Points: 'Hit Points:'
+  IQ: 'IQ:'
+  Level: 'Level:'
+  Luck: 'Luck:'
+  Offense: 'Offense:'
+  PSI Prompt: '@Press the -A- Button for PSI info.'
+  Psychic Points: 'Penis Points:'
+  Speed: 'Speed:'
+  Vitality: 'Vitality:'
+Window Titles:
+  Escargo Express Window Title: Stored Goods
+  Phone Window Title: 'Call:'

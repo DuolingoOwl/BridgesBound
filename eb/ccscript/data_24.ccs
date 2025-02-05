@@ -1,0 +1,504 @@
+/*
+ * EarthBound Text Dump
+ * Time: 14:24:43 - 02/02/2025
+ * Generated using CCScriptWriter.
+ */
+
+command e(label) "{long label}"
+
+// Text Data
+l_0xc6c479:
+    "@tessie" next
+    "@tessie" next
+    "@tessie" end
+
+l_0xc6c4d5:
+    "@tessie" next
+    "@tessie" next
+    "@tessie" end
+
+l_0xc6c52e:
+    "@i eepy" next
+    "@zzzzzzzz" end
+
+l_0xc6c565:
+    "@say hi to maxwell pls" end
+
+l_0xc6c606:
+    "[06 0F 00 {e(l_0xc6c63c)}]@there's a robot... and she's... wild... no wait thats just a starman" end
+
+l_0xc6c63c:
+    "@the fuck is happening" end
+
+l_0xc6c68f:
+    "[06 7F 01 {e(l_0xc6c729)}]@soooooo, why don't you rest here for a short while...{pause(15)} want some crack?" next
+    "@or some water?" linebreak
+    "[19 02]crack[02] [19 02]water[02][1C 07 02][11]{clearline}[09 02 {e(l_0xc6c6ec)} {e(l_0xc6c6eb)}]" goto(l_0xc6c6eb)
+
+l_0xc6c6eb:
+    eob
+
+l_0xc6c6ec:
+    "[06 1F 01 {e(l_0xc6c720)}]{set(flag 383)}" call(data_44.l_0xc915d6) call(data_44.l_0xc91582) "{window_open(1)}@crack is good{pause(20)}  Good luck.{wait}{window_closeall}" eob
+
+l_0xc6c720:
+    call(data_45.l_0xc91693) "[1F 21 2D]" eob
+
+l_0xc6c729:
+    "@crack is good" end
+
+l_0xc6c744:
+    "[06 D6 00 {e(l_0xc6c77b)}]@there's a weird building" next
+    "@south of the lake..." next
+    "@it might be the mickey mouse clubhouse?" end
+
+l_0xc6c77b:
+    "@hmm" next
+    "@hmmmmmm" end
+
+l_0xc6c7d9:
+    "[06 46 00 {e(l_0xc6c8dd)}][06 6A 02 {e(l_0xc6c8d3)}]@good fucking lord you guys are slow" next
+    "@steve jobs finished the <Eraser Eraser Machine.>" next
+    "@take it" next
+    "[1D 03 FF][1B 02 {e(l_0xc6c8a3)}][1D 0E 00 D2]" call(data_33.l_0xc7dcb6) "{wait}{set(flag 618)}" eob
+
+l_0xc6c8a3:
+    "@its important come on" next
+    "@throw something away your pockets r full" end
+
+l_0xc6c8d3:
+    "@k" end
+
+l_0xc6c8dd:
+    "@im outta here" next
+    "@ill be in saturn valley{wait}{unset(flag 620)}" eob
+
+l_0xc6c942:
+    "@hi" next
+    "@i shit myself" end
+
+l_0xc6c970:
+    "[06 49 00 {e(l_0xc6cb14)}][06 76 02 {e(l_0xc6ca9a)}]@(im the monkey mather's fiance. im gonna sing the real slim shady too because alec cant fit the entire fuckin song in one monkey, so all the monkeys in the game will sing it too. it's probably gonna be out of order because this stupid script is out of order but oh well anyway)" next
+    "@(Yeah, I probably got a couple of screws up in my head loose)" next
+    "@(But no worse than what's goin' on in your parents' bedrooms)" linebreak
+    "@(Sometimes I wanna get on TV and just let loose)" next
+    "@(But can't, but it's cool for Tom Green to hump a dead moose)" next
+    "@(My bum is on your lips, my bum is on your lips)" linebreak
+    "@(And if I'm lucky, you might just give it a little kiss)" next
+    "@(And that's the message that we deliver to little kids)" next
+    "@(And expect them not to know what a woman's clitoris is)" next
+    "@(Of course they're gonna know what intercourse is)" end
+
+l_0xc6ca9a:
+    "@(By the time they hit fourth grade)" next
+    "@(They've got the Discovery Channel, don't they?)" next
+    "@(We ain't nothin' but mammals, well, some of us, cannibals)" next
+    "@(Who cut other people open like cantaloupes)" end
+
+l_0xc6cb14:
+    "@(But if we can hump dead animals and antelopes)" linebreak
+    "@(Then there's no reason that a man and another man can't elope)" next
+    "@(But if you feel like I feel, I got the antidote)" next
+    "@(Women, wave your pantyhose, sing the chorus, and it goes)" next
+    "@(I know he's out saving the earth, but a marriage is also important.)" end
+
+l_0xc6cb97:
+    "{window_open(1)}@I'm Slim Shady, yes, I'm the real Shady All you other Slim Shadys are just imitating So won't the real Slim Shady please stand up Please stand up, please stand up? 'Cause I'm Slim Shady, yes, I'm the real Shady All you other Slim Shadys are just imitating So won't the real Slim Shady please stand up Please stand up, please stand up?" next
+    "{window_closeall}{pause(30)}[1F 16 69 02 05]{pause(30)}{window_open(1)}@Will Smith don't gotta cuss in his raps to sell records" next
+    "@(Well, I do, so fuck him and fuck you too)[03]{window_closeall}" eob
+
+l_0xc6cc31:
+    "[1F 16 69 02 01]{window_open(1)}@You think I give a damn about a Grammy? Half of you critics can't even stomach me, let alone stand me But Slim, what if you win, wouldn't it be weird? Why, so you guys could just lie to get me here? So you can sit me here next to Britney Spears? Shit, Christina Aguilera better switch me chairs So I can sit next to Carson Daly and Fred Durst And hear 'em argue over who she gave head to first Little bitch put me on blast on MTV" linebreak
+    "@Yeah, he's cute, but I think he's married to Kim, hee-hee{wait}{window_closeall}{unset(flag 621)}" eob
+
+l_0xc6cd2a:
+    "[06 3D 03 {e(l_0xc6cdaf)}][06 3E 03 {e(l_0xc6cdaf)}][06 3F 03 {e(l_0xc6cdaf)}][06 40 03 {e(l_0xc6cdaf)}][06 41 03 {e(l_0xc6cdaf)}][06 42 03 {e(l_0xc6cdaf)}][06 43 03 {e(l_0xc6cdaf)}]@I'm so sleepy.{pause(20)} tonys birthday party is tomorrow." next
+    "@i busted into all the cookies" end
+
+l_0xc6cdaf:
+    "@[1C 02 03],{pause(15)} bruh" end
+
+l_0xc6cdcd:
+    "@Instant Revitalizing Device" next
+    "@(In only a few seconds, this machine fully revitalizes you," next
+    "@just like a good night's sleep.)[03]" call(data_44.l_0xc915f4) "{music(12)}{pause(200)}{music_resume}" eob
+
+l_0xc6ce34:
+    "@phase distorter starts work now" next
+    "@dw about us.{wait}{unset(flag 766)}" eob
+
+l_0xc6cebc:
+    "@[1C 02 03] just called.{pause(20)}  He's with Dr. Andonuts." next
+    "@The two of them may be able to develop a new scientific theory." next
+    "@You've helped make a beautiful life for everyone..." end
+
+l_0xc6cf2d:
+    "@...[1C 02 03] doesn't call me." next
+    "@Maybe he thinks I'm too annoying..." next
+    "@But I don't think so." next
+    "@[1C 02 01], did you tell him not to call me?" next
+    "@...No, I know you wouldn't do that." next
+    "@If you see [1C 02 03],{pause(15)} please,{pause(15)} please ask him to call Tony.  Thanks!" end
+
+l_0xc6cfc5:
+    "{window_open(1)}@i am going to touch you violently" next
+    "@very very very violently" next
+    "@like" next
+    "@you're gonna remember this for years to come" next
+    "@get it? come?[03]{window_closeall}" eob
+
+l_0xc6d067:
+    "@(Drug Store <Best Friend>`)" end
+
+l_0xc6d082:
+    "@*Bloop* *Glub*" linebreak
+    "  Can't...{pause(15)} last...{pause(15)} much...{pause(15)} longer..." end
+
+l_0xc6d0b1:
+    "@Next *Bloop*{pause(20)}" linebreak
+    "  Next *Bloop*{pause(15)}  Room..." end
+
+l_0xc6d0db:
+    "@*Glub* ...can't breathe..." end
+
+l_0xc6d0f0:
+    "{font_saturn}@Kay-o.{pause(15)}  Can breathe..." next
+    "@*Bloop*{pause(15)} *Bloop*{pause(15)} *Bloop*{pause(30)}" linebreak
+    "  Oh, no!{font_normal}" end
+
+l_0xc6d133:
+    "@Oh, no... *Bloop* *Glub*{pause(20)}" linebreak
+    "  Can't see anything..." next
+    "@*Bloop* *Glub*" linebreak
+    "  [1C 02 03]!...{pause(15)} *Bloop*..." next
+    "@Where...{pause(15)} is...{pause(15)} [1C 02 03]...  *Bloop*" end
+
+l_0xc6d19c:
+    "[06 D7 00 {e(l_0xc6d325)}][06 92 00 {e(l_0xc6d2e8)}]@if ya got a million bucks the runaway five can go home" next
+    "@lol{wait}{set(flag 607)}[06 89 00 {e(l_0xc6d2e4)}]" eob
+
+l_0xc6d2e4:
+    "{set(flag 174)}" eob
+
+l_0xc6d2e8:
+    "@hOlY FUCK, im COMING" end
+
+l_0xc6d325:
+    "@remember kid" next
+    "@money buys happyness. get it? happy-ness. get it? <fuck you>" end
+
+l_0xc6d37e:
+    "[19 19 00 00]{swap}{result_is(182)}[1B 03 {e(l_0xc6d391)}]" goto(data_32.l_0xc7c6b6)
+
+l_0xc6d391:
+    "[19 10 01][19 22 00 02 47 03]{swap}{store_registers}{result_is(1)}[1B 03 {e(l_0xc6d4d6)}]{load_registers}{result_is(2)}[1B 03 {e(l_0xc6d4d6)}]{load_registers}{result_is(8)}[1B 03 {e(l_0xc6d4d6)}][1D 01 FF B6][1F 41 05]{sound(118)}[19 23 47 03 01 01 00][1F 16 47 03 00]@hOlY FUCK, im COMING" next
+    "@ooookay theyre free now){wait}{set(flag 146)}{set(flag 594)}" goto(data_40.l_0xc88b6d)
+
+l_0xc6d4d5:
+    eob
+
+l_0xc6d4d6:
+    "@IS THAT A BOMB" next
+    "@HOLY FUCK IS THAT A BOMB" next
+    "@bring it closer i wanna kms" end
+
+l_0xc6d50a:
+    "[06 09 00 {e(l_0xc6d642)}][06 0A 00 {e(l_0xc6d61e)}][06 93 00 {e(l_0xc6d5ae)}][19 10 01]{rtoarg}{result_is(1)}[1B 03 {e(l_0xc6d561)}]@fuck off" next
+    "@this place is restricted" next
+    "@go away" end goto(l_0xc6d561)
+
+l_0xc6d561:
+    "@yknow what fuck it" next
+    "@come on  in[03]{window_closeall}[1F F1 48 03 F2 00][1F 61][1F 1E 48 03 06][1F 17 49 03 08 00 01]{set(flag 374)}{set(flag 10)}" eob
+
+l_0xc6d5ae:
+    "@u wanna see venus?" next
+    "@sure (god i want that venussy so badly)[03]{window_closeall}[1F F1 48 03 F2 00][1F 61][1F 1E 48 03 06][1F 17 49 03 08 00 01]{set(flag 374)}{set(flag 9)}" eob
+
+l_0xc6d61e:
+    "@wheres [1C 02 01].[03]" eob
+
+l_0xc6d642:
+    "@wanna see venus? (god i want that venussy so badly)" next
+    "@cmon in" next
+    "@hngghhhh[03]" eob
+
+l_0xc6d695:
+    "[06 93 00 {e(l_0xc6d642)}]" goto(l_0xc6d61e)
+
+l_0xc6d6a1:
+    "[06 0A 00 {e(l_0xc6d822)}][06 5B 00 {e(l_0xc6d7b3)}][06 8C 00 {e(l_0xc6d707)}]@no, im not showing you my boobs" next
+    "@...or my breasts..." next
+    "@...or my taa-taas..." next
+    "@...or my tiddies..." next
+    "@...or my pillows..." next
+    "@...or my fun bags..." next
+    "@...or my milkers..." next
+    "@...or my bazongas..." next
+    "@...or my honkers..." next
+    "@...or my boobies..." next
+    "@...or my jugs..." next
+    "@...or my hakuna ma tatas..." next
+    "@...or my airbags..." next
+    "@...or my melons..." next
+    "@...or my assets..." next
+    "@...or my rack..." next
+    "@...or my udders..." next
+    "@...or my cherries..." next
+    "@...or my- HOW MANY WORDS FOR BOOBS DO YOU KNOW GOOD LORD???" next
+    "@..." next
+    "@..." next
+    "@..." next
+    "@..." next
+    "@..." next
+    "@..." next
+    "@...no, i wont show you my vagina"
+    "@...or my pussy..." next
+    "@...or my peach..." next
+    "@...or my kitty..." next
+    "@...or my vulva..." next
+    "@...or my c word that alec cannot say i think im not sure..." next
+    "@...or my- IM NOT SHOWING YOU MY VAGINA EITHER YOU PERVERT" next
+    "@..." next
+    "@..." next
+    "@..." next
+    "@..." next
+    "@..." next
+    "@..." next
+    "@..." next
+    "@..." next
+    "@..." next
+    "@..." next
+    "@..." next
+    "@..." next
+    "@...no, not my butt either" next
+    "@...or my ass..." next
+    "@...or my bum..." next
+    "@...or my hiney..." next
+    "@...or my behind..." next
+    "@...or my bottom..." next
+    "@...or my rear..." next
+    "@...or my rump..." next
+    "@...or my buttocks ..." next
+    "@...or my arse..." next
+    "@...or my gyatt..." next
+    "@...or my- OH MY GOD CAN YOU FUCK OFF YOU STUPID KID PLEASE IM NOT AN OBJECT" next
+    "@(womens rights i hate period cramps 6'5 6'5 6'5 feminist tampons should be free i spent last night crying about the age gap -alec)" next
+    "@..." next
+    "@..." next
+    "@..." next
+    "@..." next
+    "@..." next
+    "@..." next
+    "@..." next
+    "@..." next
+    "@..." next
+    "@..." next
+    "@..." next
+    "@if you say one more fucking word im gonna say the n word" next
+    "@GO THE FUCK AWAY YOU FUCKING[19 10 01]{result_is(2)}[1B 03 {e(l_0xc6d702)}]MONKEY." end goto(l_0xc6d702)
+
+l_0xc6d702:
+    "MONKEY" end
+
+l_0xc6d707:
+    "@GOD FUCKING DAMN IT ITS YOU AGAIN" next
+    "@TAKE THIS BANANA WITH MY SIGNATURE. GO AWAY. PLEASE. I BEG OF YOU" next
+    "[1D 03 FF][1B 02 {e(l_0xc6d786)}][1D 0E 00 B7]" call(data_33.l_0xc7dcb6) next
+    "@as a bonus..." next
+    "@SSSSMMMMMAAACCCCKKKK (smack as in hitting not kissing){wait}{window_closeall}{set(flag 91)}{set(flag 10)}" eob
+
+l_0xc6d786:
+    "@oh wait youre too greedy for the banana" next
+    "@throw something away" end
+
+l_0xc6d7b3:
+    "[06 A8 02 {e(l_0xc6d852)}]@O..." next
+    "@the show?" linebreak
+    "[19 02]Yes[02][19 02]No[02][1C 07 02][11]{clearline}[09 02 {e(l_0xc6d84b)} {e(l_0xc6d817)}]" goto(l_0xc6d817)
+
+l_0xc6d817:
+    "@....." next
+    goto(l_0xc6d822)
+
+l_0xc6d822:
+    "@....." end
+
+l_0xc6d84b:
+    "@ok." next
+    goto(l_0xc6d852)
+
+l_0xc6d852:
+    "@...{wait}{set(flag 680)}" eob
+
+l_0xc6d86d:
+    "@Again, we've been cheated by the theater owner." next
+    "@We're stuck here with a phony contract.  Oh yeah!" end
+
+l_0xc6d8af:
+    "@Once again, I've made trouble for you." next
+    "@This is it... we'll stop being so naive..." next
+    "@But right now,{pause(15)} our fans are waiting for us." next
+    "@We'll sing one more song before we go." next
+    "@Ready?" next
+    "@Okay, let's go!{pause(15)}  Thanks, boogie boy![03]" eob
+
+l_0xc6d93f:
+    "@We know how to sing but we don't know how to handle money or women." next
+    "@Do-wap, do do wop." end
+
+l_0xc6d97a:
+    "@We owe you guys so much." next
+    "@Sorry." end
+
+l_0xc6d993:
+    "@We're so helpless." next
+    "@Really helpless, and hopeless..." linebreak
+    "  Hyuk hyuk hyuk." end
+
+l_0xc6d9ca:
+    "@To meet Geldegarde Monotoli, you'll need our help." next
+    "@I don't exactly know why... it's just a hunch." end
+
+l_0xc6da0b:
+    "@Do you wanna buy a ticket?" linebreak
+    "[19 02]Yes[02][19 02]No[02][1C 07 02][11]{clearline}[09 02 {e(l_0xc6da3f)} {e(l_0xc6da37)}]" goto(l_0xc6da37)
+
+l_0xc6da37:
+    "@Please come again." end
+
+l_0xc6da3f:
+    "@30 bucks, please." linebreak
+    "{open_wallet}[19 02]Yes[02][19 02]No[02][1C 07 02][11]{clearline}[09 02 {e(l_0xc6da6d)} {e(l_0xc6da37)}]" goto(l_0xc6da37)
+
+l_0xc6da6d:
+    "[1D 03 FF][1B 02 {e(l_0xc6daa0)}]{store_registers}[1D 14 1E 00 00 00][1B 03 {e(l_0xc6dac0)}]{sound(118)}{pause(1)}[1D 09 1E 00]{open_wallet}@Thanks a lot.{wait}{sound(116)}{load_registers}[1D 0E 00 B2]" eob
+
+l_0xc6daa0:
+    "@Excuse me [19 10 01]" call(data_33.l_0xc7e6b3) ", but your hands are full..." end goto(l_0xc6dac0)
+
+l_0xc6dac0:
+    "@I'm sorry sir..." next
+    "[1F 16 99 03 07]@We don't just give away the tickets... you must pay 30 dollars." end
+
+l_0xc6daf5:
+    "[06 02 00 {e(l_0xc6dbbf)}][06 93 00 {e(l_0xc6db0a)}][06 92 00 {e(l_0xc6db2e)}]" goto(l_0xc6db0a)
+
+l_0xc6db0a:
+    "[19 22 FF 02 51 03]" call(data_33.l_0xc7dc9b) "[1B 02 {e(l_0xc6dbae)}]@Please have your tickets ready..." end goto(l_0xc6db2e)
+
+l_0xc6db2e:
+    "[06 93 00 {e(l_0xc6dbd5)}]@Boys and girls, ladies and gents... this is a very special show," next
+    "@the final Runaway Five show here at the Topolla!" next
+    "@Please, please, please is a song by Sabrina Carpenter, not to be confused with Mr. Carpainter." end
+
+l_0xc6dbae:
+    "@im not that fat{wait}{window_closeall}" call(data_40.l_0xc88988) "{set(flag 2)}" eob
+
+l_0xc6dbbf:
+    "@happy?" end
+
+l_0xc6dbce:
+    "[06 92 00 {e(l_0xc6db2e)}]" goto(l_0xc6dbd5)
+
+l_0xc6dbd5:
+    "[06 02 00 {e(l_0xc6dbbf)}]{store_registers}{load_registers}[19 19 00 00]{swap}{store_registers}{result_is(178)}[1B 03 {e(l_0xc6dc0c)}][19 22 FF 02 51 03]" call(data_33.l_0xc7dc9b) "[1B 02 {e(l_0xc6dbae)}]@i dont give a fuck" end goto(l_0xc6dc0c)
+
+l_0xc6dc0c:
+    "[19 22 FF 02 51 03]" call(data_33.l_0xc7dc9b) "[1B 02 {e(l_0xc6dbae)}][06 02 00 {e(l_0xc6dbbf)}]{sound(118)}{pause(1)}[1D 01 FF B2]@Thanks a lot." next
+    "@Please hurry.{pause(20)}  The show will be starting at any moment.{wait}{window_closeall}" call(data_40.l_0xc8897f) "{set(flag 2)}" eob goto(l_0xc6dc62)
+
+l_0xc6dc62:
+    "@Thanks a lot." next
+    "@Please hurry.{pause(20)}  The show will be starting at any moment." end
+
+l_0xc6dc8d:
+    call(data_12.l_0xc5d3dd) eob
+
+l_0xc6dc93:
+    "@my own bakery... sucks ass" end
+
+l_0xc6dce7:
+    "@I was thinking <There's a tight wad born every minute...>" end
+
+l_0xc6dd0a:
+    "[19 19 00 00]{swap}{result_is(187)}[1B 03 {e(l_0xc6dd1d)}]" goto(data_32.l_0xc7c6b6)
+
+l_0xc6dd1d:
+    "@What?" next
+    "@You came to deliver my grandma's momento, the [1C 05 BB]?!" next
+    "@Thank you." next
+    "@Thank you so{pause(5)}o{pause(5)}o{pause(1)}o{pause(1)}o much!" next
+    "@It's our family tradition to keep things forever." next
+    "@...Okay, I'll give you something as a reward." next
+    "@Here's my socks that I use only for special occasions." next
+    "@I've worn these socks for just five years." next
+    "@There are no holes, and they've only been worn once since the last washing." next
+    "@They stink a little... but they're still good." next
+    "@Hey, don't refuse me here... I'm being generous!" next
+    "{sound(116)}[1D 01 FF BB][1D 03 FF][1D 0E 00 98]" call(data_33.l_0xc7dccf) next
+    "@Please take good care of my socks... *sniff!*{wait}{set(flag 736)}" eob
+
+l_0xc6de7b:
+    "[06 0A 00 {e(l_0xc6df35)}][06 8F 00 {e(l_0xc6df43)}]@This elevator is only for Master Pokey's use." next
+    "@It goes directly to the 47th floor." next
+    "@can i lick you?[03]" goto(l_0xc6defa)
+
+l_0xc6defa:
+    "{window_closeall}[1F 16 58 03 01]{music(137)}[1F 15 B7 01 63 01 01]{pause(1)}[1F EF B7 01][1F E8 FF][1F 15 6A 00 46 02 01][1F 61]{music(139)}{pause(90)}[1F ED][1F E5 FF][1F 1F B7 01 06]{set(flag 350)}{set(flag 10)}" eob
+
+l_0xc6df35:
+    "@47th floor..." end
+
+l_0xc6df43:
+    "@This elevator goes directly to the 47th floor.{pause(20)}  All aboard!" next
+    "@Just kidding.[03]" goto(l_0xc6defa)
+
+l_0xc6df83:
+    "@Last night there was a solitaire tournament." next
+    "@...I lost my shirt...." next
+    "@I'll invite you next time." next
+    "@Hey, wait...  Do you even know what solitaire is?" end
+
+l_0xc6dfe7:
+    "[06 49 00 {e(l_0xc6e05a)}][06 8F 00 {e(l_0xc6e018)}]@I'm an elite businessman who works in Mr. Monotoli's office." end
+
+l_0xc6e018:
+    "@I hope my salary stays the same." next
+    "@You don't understand." next
+    "@This is a huge concern of elite businessmen like me." end
+
+l_0xc6e05a:
+    "@It sounds like your lifestyle" next
+    "@...isn't something I'd be that proud of!" end
+
+l_0xc6e088:
+    "[06 49 00 {e(l_0xc6e0b4)}]@Hello, baby face." next
+    "@What brings you to the Monotoli Building?" end
+
+l_0xc6e0b4:
+    "@Hello, baby face." next
+    "@What brings you to the Enrich Flavor Building?" end
+
+l_0xc6e0e3:
+    "[06 8F 00 {e(l_0xc6e159)}]@Are you a friend of Master Pokey?" next
+    "@It's okay to visit him here,{pause(15)} but don't wander around the building." next
+    "@Someone might be suspicious of you and take a pot shot at you with a machine gun..." end
+
+l_0xc6e159:
+    "@A lot has happened to me." next
+    "@I have to try and sort it all out... thinking is tough for me." end
+
+l_0xc6e192:
+    "[06 8F 00 {e(l_0xc6e1b9)}]@Whoops..." next
+    "@I was almost gonna beat you up." end
+
+l_0xc6e1b9:
+    "@When I'm off duty from my body guard job, I still have a lot of pent-up energy." next
+    "@But don't worry, I won't come after you." next
+    "@Unless you're kinda itchin' for a fight..." end
+
+l_0xc6e220:
+    "[06 0A 00 {e(data_25.l_0xc6e298)}]@This elevator is going down." next
+    "@Look, don't stand behind me and stare at my hips!{wait}{window_closeall}[1F 16 58 03 01]{music(138)}[1F 15 B7 01 63 01 01]{pause(1)}[1F EF B7 01][1F E8 FF][1F 15 6A 00 47 02 01][1F 61]{music(139)}{pause(90)}[1F ED][1F E5 FF][1F 1F B7 01 06]{set(flag 350)}{set(flag 10)}" eob
+

@@ -1,0 +1,564 @@
+/*
+ * EarthBound Text Dump
+ * Time: 14:24:43 - 02/02/2025
+ * Generated using CCScriptWriter.
+ */
+
+command e(label) "{long label}"
+
+// Text Data
+l_0xc53b86:
+    newline
+    " <[1C 05 25]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53b96:
+    newline
+    " <[1C 05 26]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53ba6:
+    newline
+    " <[1C 05 27]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53bb6:
+    newline
+    " <[1C 05 28]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53bc6:
+    newline
+    " <[1C 05 29]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53bd6:
+    newline
+    " <[1C 05 2A]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53be6:
+    newline
+    " <[1C 05 2B]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53bf6:
+    newline
+    " <[1C 05 2C]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53c06:
+    newline
+    " <[1C 05 2D]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53c16:
+    newline
+    " <[1C 05 2E]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53c26:
+    newline
+    " <[1C 05 2F]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53c36:
+    newline
+    " <[1C 05 30]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53c46:
+    newline
+    " <[1C 05 31]>" next
+    "@mid weapon" end
+
+l_0xc53c5f:
+    newline
+    " <[1C 05 32]>" next
+    "@chill weapon" end
+
+l_0xc53c7a:
+    newline
+    " <[1C 05 33]>" next
+    "@heyyy thats pretty good" end
+
+l_0xc53c95:
+    newline
+    " <[1C 05 34]>" next
+    "@aw hell yeah" end
+
+l_0xc53caf:
+    newline
+    " <[1C 05 35]>" next
+    "@BOOOOOOM" end
+
+l_0xc53cc8:
+    newline
+    " <[1C 05 36]>" next
+    call(data_05.l_0xc56bc0) end
+
+l_0xc53cd8:
+    newline
+    " <[1C 05 37]>" next
+    call(data_05.l_0xc56bc0) next
+    "@Also, it adds a bit of Speed." end
+
+l_0xc53d00:
+    newline
+    " <[1C 05 38]>" next
+    call(data_05.l_0xc56bc0) next
+    "@It also increases your Speed." end
+
+l_0xc53d21:
+    newline
+    " <[1C 05 39]>" next
+    call(data_05.l_0xc56bc0) next
+    "@It increases your Speed in a big way." end
+
+l_0xc53d46:
+    newline
+    " <[1C 05 3A]>" next
+    call(data_05.l_0xc56bdf) "@fire protection" end
+
+l_0xc53d6a:
+    newline
+    " <[1C 05 3B]>" next
+    call(data_05.l_0xc56bdf) "@freeze protect" end
+
+l_0xc53d8f:
+    newline
+    " <[1C 05 3C]>" next
+    call(data_05.l_0xc56bdf) "@flashbang protect" end
+
+l_0xc53db8:
+    newline
+    " <[1C 05 3D]>" next
+    call(data_05.l_0xc56bdf) "@fire freeze flashbang protect" end
+
+l_0xc53de8:
+    newline
+    " <[1C 05 3E]>" next
+    call(data_05.l_0xc56bdf) "@fire, freeze, flashbang paralysis protect." end
+
+l_0xc53e23:
+    newline
+    " <[1C 05 3F]>" next
+    "@[1C 02 04]'s body equipment." next
+    "@defense up" end
+
+l_0xc53e4f:
+    newline
+    " <[1C 05 40]>" next
+    call(data_05.l_0xc56bf4) end
+
+l_0xc53e5f:
+    newline
+    " <[1C 05 41]>" next
+    call(data_05.l_0xc56bf4) end
+
+l_0xc53e6f:
+    newline
+    " <[1C 05 42]>" next
+    call(data_05.l_0xc56bf4) end
+
+l_0xc53e7f:
+    newline
+    " <[1C 05 43]>" next
+    call(data_05.l_0xc56bf4) end
+
+l_0xc53e8f:
+    newline
+    " <[1C 05 44]>" next
+    call(data_05.l_0xc56bf4) end
+
+l_0xc53e9f:
+    newline
+    " <[1C 05 45]>" next
+    call(data_05.l_0xc56bf4) end
+
+l_0xc53eaf:
+    newline
+    " <[1C 05 46]>" next
+    call(data_05.l_0xc56bf4) next
+    call(data_05.l_0xc56c16) end
+
+l_0xc53ec6:
+    newline
+    " <[1C 05 47]>" next
+    call(data_05.l_0xc56bf4) next
+    call(data_05.l_0xc56c16) end
+
+l_0xc53edd:
+    newline
+    " <[1C 05 48]>" next
+    call(data_05.l_0xc56bf4) next
+    call(data_05.l_0xc56c16) end
+
+l_0xc53ef4:
+    newline
+    " <[1C 05 49]>" next
+    "@To be equipped on" linebreak
+    "  [1C 02 04]'s arm." next
+    "@no sleepy and more lucky" next
+    "@also defense" end
+
+l_0xc53f58:
+    newline
+    " <[1C 05 4A]>" next
+    call(data_05.l_0xc56c40) next
+    "@theres a logo of diddy" end
+
+l_0xc53f89:
+    newline
+    " <[1C 05 4B]>" next
+    call(data_05.l_0xc56c40) next
+    "@pink panthar music intensifies" end
+
+l_0xc53fc9:
+    newline
+    " <[1C 05 4C]>" next
+    call(data_05.l_0xc56c40) next
+    "@woah" end
+
+l_0xc5400a:
+    newline
+    " <[1C 05 4D]>" next
+    call(data_05.l_0xc56c40) next
+    "@YARRRRRR" next
+    "@or construction noises" end
+
+l_0xc54055:
+    newline
+    " <[1C 05 4E]>" next
+    call(data_05.l_0xc56c6d) end
+
+l_0xc54065:
+    newline
+    " <[1C 05 4F]>" next
+    call(data_05.l_0xc56c6d) end
+
+l_0xc54075:
+    newline
+    " <[1C 05 50]>" next
+    call(data_05.l_0xc56c6d) end
+
+l_0xc54085:
+    newline
+    " <[1C 05 51]>" next
+    call(data_05.l_0xc56c54) end
+
+l_0xc54095:
+    newline
+    " <[1C 05 52]>" next
+    call(data_05.l_0xc56c54) end
+
+l_0xc540a5:
+    newline
+    " <[1C 05 53]>" next
+    call(data_05.l_0xc56c54) end
+
+l_0xc540b5:
+    newline
+    " <[1C 05 54]>" next
+    call(data_05.l_0xc56c54) end
+
+l_0xc540c5:
+    newline
+    " <[1C 05 55]>" next
+    call(data_05.l_0xc56c54) end
+
+l_0xc540d5:
+    newline
+    " <[1C 05 56]>" next
+    call(data_05.l_0xc56c54) end
+
+l_0xc540e5:
+    newline
+    " <[1C 05 57]>" next
+    call(data_05.l_0xc56c91) next
+    "@more defense." end
+
+l_0xc54106:
+    newline
+    " <[1C 05 58]>" next
+    call(data_05.l_0xc56cb5) "6" call(data_05.l_0xc56cd6) end
+
+l_0xc5411c:
+    newline
+    " <[1C 05 59]>" next
+    call(data_05.l_0xc56cb5) "24" call(data_05.l_0xc56cd6) end
+
+l_0xc54133:
+    newline
+    " <[1C 05 5A]>" next
+    call(data_05.l_0xc56cb5) "50" call(data_05.l_0xc56cd6) next
+    "@100% beer." end
+
+l_0xc54156:
+    newline
+    " <[1C 05 5B]>" next
+    call(data_05.l_0xc56cb5) "40" call(data_05.l_0xc56cd6) end
+
+l_0xc5416d:
+    newline
+    " <[1C 05 5C]>" next
+    call(data_05.l_0xc56cb5) "80" call(data_05.l_0xc56cd6) next
+    "@really fresh" end
+
+l_0xc54197:
+    newline
+    " <[1C 05 5D]>" next
+    call(data_05.l_0xc56cb5) "80" call(data_05.l_0xc56cd6) next
+    "@DID SOMEBODY SAY PIE???" end
+
+l_0xc541cb:
+    newline
+    " <[1C 05 5E]>" next
+    "@This is a pasta dish which legend holds was a favorite of King Summers the Third" next
+    "@in the 16th century. Back then, there were many great chefs, confident of their" next
+    "@culinary skills, always going to and from Summer's Palace." next
+    "@Once day, King Summers wife, Anna Summers, said," next
+    "@<Oh what I wouldn't give for some really delicious pasta!> ... ... ..." next
+    "@...Well, let's just leave it at that. The story is too long to go through completely..." next
+    "@but it really is a beautiful, touching tale..." next
+    call(data_05.l_0xc56cb5) "110" call(data_05.l_0xc56cd6) end
+
+l_0xc54321:
+    newline
+    " <[1C 05 5F]>" next
+    call(data_05.l_0xc56cb5) "120" call(data_05.l_0xc56cd6) end
+
+l_0xc54339:
+    newline
+    " <[1C 05 60]>" next
+    "@its shit" next
+    "@really awful" next
+    call(data_05.l_0xc56cb5) "200" call(data_05.l_0xc56cd6) end
+
+l_0xc543a4:
+    newline
+    " <[1C 05 61]>" next
+    "@no, fatass, you cant eat the whole thing. 240 hp to everyone" end
+
+l_0xc543da:
+    newline
+    " <[1C 05 62]>" next
+    "@20 pp (penis points)" end
+
+l_0xc543f5:
+    newline
+    " <[1C 05 63]>" next
+    "@jream" linebreak
+    "  thats what she said" next
+    "@in wet, muddy places." next
+    "@It restores about 80 pp (penis points)" end
+
+l_0xc54451:
+    newline
+    " <[1C 05 64]>" next
+    call(data_05.l_0xc56cb5) "300 hp and 50ish pp (penis points)" end
+
+l_0xc54471:
+    newline
+    " <[1C 05 65]>" next
+    "@russian roulette" end
+
+l_0xc544af:
+    newline
+    " <[1C 05 66]>" next
+    call(data_05.l_0xc56cb5) "60" call(data_05.l_0xc56cd6) end
+
+l_0xc544c6:
+    newline
+    " <[1C 05 67]>" next
+    call(data_05.l_0xc56cb5) "30" call(data_05.l_0xc56cd6) end
+
+l_0xc544dd:
+    newline
+    " <[1C 05 68]>" next
+    "@balloon monkey's special sock" end
+
+l_0xc5453e:
+    newline
+    " <[1C 05 69]>" next
+    "@belch's special sock" next
+    "@smells like ass and not the good kind" end
+
+l_0xc545a1:
+    newline
+    " <[1C 05 6A]>" next
+    call(data_05.l_0xc56cc5) "6" call(data_05.l_0xc56cd6) end
+
+l_0xc545b7:
+    newline
+    " <[1C 05 6B]>" next
+    "@yum" next
+    "@yum" next
+    "@yum" next
+    call(data_05.l_0xc56cc5) "60" call(data_05.l_0xc56cd6) end
+
+l_0xc54660:
+    newline
+    " <[1C 05 6C]>" next
+    "@gives stuff probably" next
+    "@yea" next
+    call(data_05.l_0xc56cc5) "80" call(data_05.l_0xc56cd6) end
+
+l_0xc546bc:
+    newline
+    " <[1C 05 6D]>" next
+    "@its actually the kraken's shit" next
+    "@(he shits out pizza)" next
+    "@really good" end
+
+l_0xc54733:
+    newline
+    " <[1C 05 6E]>" next
+    "@pp (penis power) increase" end
+
+l_0xc5475a:
+    newline
+    " <[1C 05 6F]>" next
+    "@better than crack (youll get healed from a cold)" end
+
+l_0xc54789:
+    newline
+    " <[1C 05 70]>" next
+    "@minecraft milk" end
+
+l_0xc547b0:
+    newline
+    " <[1C 05 71]>" next
+    "@brain expansion" end
+
+l_0xc547cb:
+    newline
+    " <[1C 05 72]>" next
+    "@guts expansion" end
+
+l_0xc547e8:
+    newline
+    " <[1C 05 73]>" next
+    "@sonic the edgehog" end
+
+l_0xc54806:
+    newline
+    " <[1C 05 74]>" next
+    "@more vitality" end
+
+l_0xc54826:
+    newline
+    " <[1C 05 75]>" next
+    "@luck more" end
+
+l_0xc54842:
+    newline
+    " <[1C 05 76]>" next
+    call(data_05.l_0xc56d63) end
+
+l_0xc54852:
+    newline
+    " <[1C 05 77]>" next
+    call(data_05.l_0xc56d63) end
+
+l_0xc54862:
+    newline
+    " <[1C 05 78]>" next
+    call(data_05.l_0xc56d63) end
+
+l_0xc54872:
+    newline
+    " <[1C 05 79]>" next
+    call(data_05.l_0xc56d63) end
+
+l_0xc54882:
+    newline
+    " <[1C 05 7A]>" next
+    call(data_05.l_0xc56d63) end
+
+l_0xc54892:
+    newline
+    " <[1C 05 7B]>" next
+    call(data_05.l_0xc56d63) end
+
+l_0xc548a2:
+    newline
+    " <[1C 05 7C]>" next
+    call(data_05.l_0xc56d63) end
+
+l_0xc548b2:
+    newline
+    " <[1C 05 7D]>" next
+    "@backstage in chaos theater" next
+    "@lucky" end
+
+l_0xc548fc:
+    newline
+    " <[1C 05 7E]>" next
+    "@Use by sprinkling it over food." next
+    "@It tastes good with any kind of food, thereby" next
+    "@increasing the recovery power of the food." end
+
+l_0xc54952:
+    newline
+    " <[1C 05 7F]>" next
+    "@when you have a sunstroke, try coke!" end
+
+l_0xc54979:
+    newline
+    " <[1C 05 80]>" next
+    "@got milk?" next
+    "@It also has other uses..." next
+    call(data_05.l_0xc56d02) call(data_05.l_0xc56d36) end
+
+l_0xc549c3:
+    newline
+    " <[1C 05 81]>" next
+    "@May revive a friend who is unconscious." next
+    call(data_05.l_0xc56cdb) call(data_05.l_0xc56d02) next
+    call(data_05.l_0xc56d36) call(data_05.l_0xc56d38) end
+
+l_0xc549ff:
+    newline
+    " <[1C 05 82]>" next
+    goto(l_0xc54a08)
+
+l_0xc54a08:
+    "@revive someone." next
+    call(data_05.l_0xc56cdb) call(data_05.l_0xc56d02) next
+    call(data_05.l_0xc56d37) call(data_05.l_0xc56d38) end
+
+l_0xc54a3a:
+    newline
+    " <[1C 05 83]>" next
+    call(data_05.l_0xc56db7) "@enemy loses pp (penis power)" next
+    call(data_05.l_0xc56d9b) end
+
+l_0xc54a6c:
+    newline
+    " <[1C 05 84]>" next
+    call(data_05.l_0xc56db7) "@enemy loses shielf" next
+    call(data_05.l_0xc56d9b) end
+
+l_0xc54aa1:
+    newline
+    " <[1C 05 85]>" next
+    call(data_05.l_0xc56db7) call(data_05.l_0xc56dc5) next
+    "@BOOOOOOM" next
+    "@shakalakala" next
+    call(data_05.l_0xc56d9b) end
+
+l_0xc54af5:
+    newline
+    " <[1C 05 86]>" next
+    call(data_05.l_0xc56db7) "@bigger boom." next
+    "@cool" next
+    "@and stuff" next
+    call(data_05.l_0xc56d9b) end
+
+l_0xc54b67:
+    newline
+    " <[1C 05 87]>" next
+    call(data_05.l_0xc56db7) "@sucks hp like a prostitute sucks cock" next
+    call(data_05.l_0xc56d9b) end
+
