@@ -11,19 +11,20 @@ l_0xefa0dc:
     "{swap}@[1C 02 00] read the hieroglyphs." next
     "@<imik nik himat-harad, rihnik hasfat armaw harhultif, nan qab ni-intat mahuwataf>" next
     "@<You should not sleep with a woman-boy, you know the forbidden is water on his heart, for there is no cooling what's in his belly.>" next
-    "@However, our efforts were futile, and we lost." next
-    "@Nonetheless, our pyramid was protected by the gods of Scaraba." next
-    "@The invaders will be reborn every millennium and will attack again." next
-    "@Even now, the invaders hide beyond space and time and build their evil stronghold." next
-    "@A place out of time is beyond the Dark, and is even farther beyond the Lost Underworld." next
-    "@The Deep Darkness is shrouded, it is without light." next
-    "@Only one with the [1C 05 AF] can pierce the dark." next
-    "@The Sphinx now watches over everything," next
-    "@waiting for the coming of a truly brave hero." next
-    "@   #" linebreak
-    "  4   3" linebreak
-    "   2 5" next
-    "@Dance in front of the Sphinx!>" end
+    /*"@However, our efforts were futile, and we lost." next
+    *"@Nonetheless, our pyramid was protected by the gods of Scaraba." next
+    *"@The invaders will be reborn every millennium and will attack again." next
+    *"@Even now, the invaders hide beyond space and time and build their evil stronghold." next
+    *"@A place out of time is beyond the Dark, and is even farther beyond the Lost Underworld." next
+    *"@The Deep Darkness is shrouded, it is without light." next
+    *"@Only one with the [1C 05 AF] can pierce the dark." next
+    *"@The Sphinx now watches over everything," next
+    *"@waiting for the coming of a truly brave hero." next
+    *"@   #" linebreak
+    *"  4   3" linebreak
+    *"   2 5" next
+    *"@Dance in front of the Sphinx!>" end
+*/
 
 l_0xefa2ab:
     "[1F 41 07][1B 02 {e(l_0xefa2b5)}]" eob
