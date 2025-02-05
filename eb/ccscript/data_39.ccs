@@ -73,19 +73,23 @@ l_0xc86e3d:
 
 l_0xc86e58:
     "@([1C 01 4A] read the Hieroglyphs!)" next
-    "@<To fight against the invaders, we built this pyramid fortress." next
-    "@However, our efforts were futile, and we lost." next
-    "@Nonetheless, our pyramid was protected by the gods of Scaraba." next
-    "@The invaders will be reborn every millennium and will attack again." next
-    "@Even now, the invaders hide beyond space and time and build their evil stronghold." next
-    "@A place out of time is beyond the Dark, and is even farther beyond the Lost Underworld." next
-    "@The Deep Darkness is shrouded, it is without light." next
-    "@Only one with the [1C 05 AF] can pierce the dark." next
-    "@The Sphinx now watches over everything," next
-    "@waiting for the coming of a truly brave hero." next
-    "@   #" linebreak
-    "  4   3" linebreak
-    "   2 5" next
+    "@<imik nik himat-harad, rihnik hasfat armaw harhultif, nan qab ni-intat mahuwataf>" next
+    "@<You should not sleep with a femboy, you know the forbidden is water on his heart," next
+    " for there is no cooling what's in his belly.>" next
+    /*"@However, our efforts were futile, and we lost." next
+    *"@Nonetheless, our pyramid was protected by the gods of Scaraba." next
+    *"@The invaders will be reborn every millennium and will attack again." next
+    *"@Even now, the invaders hide beyond space and time and build their evil stronghold." next
+    *"@A place out of time is beyond the Dark, and is even farther beyond the Lost Underworld." next
+    *"@The Deep Darkness is shrouded, it is without light." next
+    *"@Only one with the [1C 05 AF] can pierce the dark." next
+    *"@The Sphinx now watches over everything," next
+    *"@waiting for the coming of a truly brave hero." next
+    *"@   #" linebreak
+    *"  4   3" linebreak
+    *"   2 5" next
+    *"@Dance in front of the Sphinx!>" end
+*/
     "@Dance in front of the Sphinx!>[06 94 00 {e(l_0xc87099)}][03]{window_closeall}{pause(120)}[1F 1C 04 04]{pause(10)}[19 22 01 01 04 00][1F 13 01 00][19 22 02 01 04 00][1F 13 02 00][19 22 03 01 04 00][1F 13 03 00]{pause(50)}[1F 1D 04]{pause(30)}{window_open(1)}[19 10 01]{rtoarg}@[1C 02 00]!  Let's go to Scaraba.{pause(15)}  The pyramid is the key!{wait}{set(flag 148)}[1F 66 01 31 6F AC C8 00]" eob goto(l_0xc87099)
 
 l_0xc87099:
