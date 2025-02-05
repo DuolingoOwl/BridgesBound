@@ -36,7 +36,7 @@ l_0xc52e59:
     eob
 
 l_0xc52e85:
-    "@[1C 02 00] won't be able to equip this." next
+    "@[1C 02 00]'s fatass won't be able to equip this." next
     "@Are you intent on purchasing it anyway?" linebreak
     eob
 
@@ -46,6 +46,7 @@ l_0xc52eb2:
 
 l_0xc52ed7:
     "@Hold it just a second!  You haven't got enough money!" next
+    "@Come on, do a money spread, lil bro!" next
     eob
 
 l_0xc52ef5:
@@ -287,7 +288,8 @@ l_0xc53515:
     eob
 
 l_0xc5352c:
-    "[19 10 01]@" call(data_33.l_0xc7e6c5) ", it appears you do not have the money necessary for this transaction." next
+    "[19 10 01]@" call(data_33.l_0xc7e6c5) ", "It seems that you do not have requisite funds." next
+    "@ The completion of this transaction is currently unavailable to you." next
     eob goto(l_0xc53562)
 
 l_0xc53562:
@@ -395,7 +397,8 @@ l_0xc53870:
 l_0xc53897:
     newline
     " <[1C 05 0A]>" next
-    "@It looks like a busted water pipe." next
+    "@It looks like a busted..." pause(10)
+    " water pipe." next
     call(data_05.l_0xc56b6f) end
 
 l_0xc538bc:
