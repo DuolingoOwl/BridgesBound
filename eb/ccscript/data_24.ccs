@@ -18,20 +18,20 @@ l_0xc6c4d5:
     "@tessie" end
 
 l_0xc6c52e:
-    "@i eepy" next
+    "@I eepy" next
     "@zzzzzzzz" end
 
 l_0xc6c565:
-    "@say hi to maxwell pls" end
+    "@Say hi to maxwell pls" end
 
 l_0xc6c606:
     "[06 0F 00 {e(l_0xc6c63c)}]@there's a robot... and she's... wild... no wait thats just a starman" end
 
 l_0xc6c63c:
-    "@the fuck is happening" end
+    "@The fuck is happening" end
 
 l_0xc6c68f:
-    "[06 7F 01 {e(l_0xc6c729)}]@soooooo, why don't you rest here for a short while...{pause(15)} want some crack?" next
+    "[06 7F 01 {e(l_0xc6c729)}]@Soooooo, why don't you rest here for a short while...{pause(15)} want some crack?" next
     "@or some water?" linebreak
     "[19 02]crack[02] [19 02]water[02][1C 07 02][11]{clearline}[09 02 {e(l_0xc6c6ec)} {e(l_0xc6c6eb)}]" goto(l_0xc6c6eb)
 
@@ -45,10 +45,10 @@ l_0xc6c720:
     call(data_45.l_0xc91693) "[1F 21 2D]" eob
 
 l_0xc6c729:
-    "@crack is good" end
+    "@Crack is good" end
 
 l_0xc6c744:
-    "[06 D6 00 {e(l_0xc6c77b)}]@there's a weird building" next
+    "[06 D6 00 {e(l_0xc6c77b)}]@There's a weird building" next
     "@south of the lake..." next
     "@it might be the mickey mouse clubhouse?" end
 
@@ -57,25 +57,25 @@ l_0xc6c77b:
     "@hmmmmmm" end
 
 l_0xc6c7d9:
-    "[06 46 00 {e(l_0xc6c8dd)}][06 6A 02 {e(l_0xc6c8d3)}]@good fucking lord you guys are slow" next
-    "@steve jobs finished the <Eraser Eraser Machine.>" next
-    "@take it" next
+    "[06 46 00 {e(l_0xc6c8dd)}][06 6A 02 {e(l_0xc6c8d3)}]@Good fucking lord you guys are slow" next
+    "@Steve Jobs finished the <Eraser Eraser Machine.>" next
+    "@Take it" next
     "[1D 03 FF][1B 02 {e(l_0xc6c8a3)}][1D 0E 00 D2]" call(data_33.l_0xc7dcb6) "{wait}{set(flag 618)}" eob
 
 l_0xc6c8a3:
-    "@its important come on" next
-    "@throw something away your pockets r full" end
+    "@It's important come on" next
+    "@Throw something away your pockets r full" end
 
 l_0xc6c8d3:
     "@k" end
 
 l_0xc6c8dd:
-    "@im outta here" next
-    "@ill be in saturn valley{wait}{unset(flag 620)}" eob
+    "@I'm outta here" next
+    "@I'll be in Saturn Valley{wait}{unset(flag 620)}" eob
 
 l_0xc6c942:
-    "@hi" next
-    "@i shit myself" end
+    "@Hi" next
+    "@I shit myself :)" end
 
 l_0xc6c970:
     "[06 49 00 {e(l_0xc6cb14)}][06 76 02 {e(l_0xc6ca9a)}]@(im the monkey mather's fiance. im gonna sing the real slim shady too because alec cant fit the entire fuckin song in one monkey, so all the monkeys in the game will sing it too. it's probably gonna be out of order because this stupid script is out of order but oh well anyway)" next
@@ -113,7 +113,7 @@ l_0xc6cc31:
 
 l_0xc6cd2a:
     "[06 3D 03 {e(l_0xc6cdaf)}][06 3E 03 {e(l_0xc6cdaf)}][06 3F 03 {e(l_0xc6cdaf)}][06 40 03 {e(l_0xc6cdaf)}][06 41 03 {e(l_0xc6cdaf)}][06 42 03 {e(l_0xc6cdaf)}][06 43 03 {e(l_0xc6cdaf)}]@I'm so sleepy.{pause(20)} tonys birthday party is tomorrow." next
-    "@i busted into all the cookies" end
+    "@I busted into all the cookies" end
 
 l_0xc6cdaf:
     "@[1C 02 03],{pause(15)} bruh" end
@@ -141,14 +141,13 @@ l_0xc6cf2d:
     "@If you see [1C 02 03],{pause(15)} please,{pause(15)} please ask him to call Tony.  Thanks!" end
 
 l_0xc6cfc5:
-    "{window_open(1)}@i am going to touch you violently" next
+    "{window_open(1)}@I am going to touch you violently. {pause(30)}" next
     "@very very very violently" next
-    "@like" next
-    "@you're gonna remember this for years to come" next
-    "@get it? come?[03]{window_closeall}" eob
+    "@Like,{pause(15)} you're gonna remember this for years to come." next
+    "@Get it? come?[03]{window_closeall}" eob
 
 l_0xc6d067:
-    "@(Drug Store <Best Friend>`)" end
+    "@(Drug Store <Best Friend>)" end
 
 l_0xc6d082:
     "@*Bloop* *Glub*" linebreak
@@ -181,11 +180,11 @@ l_0xc6d2e4:
     "{set(flag 174)}" eob
 
 l_0xc6d2e8:
-    "@hOlY FUCK, im COMING" end
+    "@HOlY FUCK, im COMING" end
 
 l_0xc6d325:
     "@remember kid" next
-    "@money buys happyness. get it? happy-ness. get it? <fuck you>" end
+    "@money buys happyness. get it? happy-ness. get it? {pause(15)} <fuck you>" end
 
 l_0xc6d37e:
     "[19 19 00 00]{swap}{result_is(182)}[1B 03 {e(l_0xc6d391)}]" goto(data_32.l_0xc7c6b6)
