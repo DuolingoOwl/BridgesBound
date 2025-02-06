@@ -193,13 +193,13 @@ l_0xc8455f:
 
 l_0xc84608:
     call(l_0xc8437a) call(l_0xc843c8) "@<Isn't it about time for a fantastic vacation to the dream resort of Summers?" next
-    "@Someday, we'll see you there...>" end
+    "@We hope to never see you there!>" end
 
 l_0xc84657:
     call(l_0xc8437a) call(l_0xc843a7) "@<Twoson kidnap victim [1C 01 1E] rescued by local Onett hero [1C 02 01]>" end
 
 l_0xc84693:
-    call(l_0xc8437a) call(l_0xc843a7) "@<Situation in the town of Threed is dire>" end
+    call(l_0xc8437a) call(l_0xc843a7) "@<The Threed situation is wild>" end
 
 l_0xc846b6:
     call(l_0xc8437a) call(l_0xc843c8) "@<Even our clerks get lost in the store!" next
@@ -224,7 +224,7 @@ l_0xc847e6:
     call(l_0xc8437a) call(l_0xc843a7) "@<Onett Police chief still not through playing EarthBound!>" end
 
 l_0xc8481a:
-    call(l_0xc8437a) call(l_0xc843a7) "@<Prince [1C 02 04] of Dalaam traveling incognito to Onett?>" end
+    call(l_0xc8437a) call(l_0xc843a7) "@<Prince [1C 02 04] of Sukma traveling incognito to Onett?>" end
 
 l_0xc8484c:
     call(l_0xc8437a) call(l_0xc843c8) "@<Even a seasoned world traveler enjoys staying here." next
@@ -235,7 +235,7 @@ l_0xc848a4:
     call(l_0xc8437a) call(l_0xc843a7) "@<International news:  Pyramid in Scaraba vandalized>" end
 
 l_0xc848db:
-    call(l_0xc8437a) call(l_0xc843a7) "@<Onett Library facing crisis" next
+    call(l_0xc8437a) call(l_0xc843a7) "@<Onett Library fucking crisis!" next
     "@Many book borrowers giving library books away or never returning them>" end
 
 l_0xc84930:
@@ -274,8 +274,8 @@ l_0xc84b5e:
     "@Follower claims temporary insanity...>" end
 
 l_0xc84bbb:
-    call(l_0xc84a6e) call(l_0xc84a8a) "@<[1C 02 02] found safe!" linebreak
-    "  Parents delighted to have her back>" end
+    call(l_0xc84a6e) call(l_0xc84a8a) "@<[1C 02 02] found dead in creek" linebreak
+    "  Parents delighted...>" end
 
 l_0xc84bee:
     call(l_0xc84a6e) call(l_0xc84a8a) "@<Ghosts continue to inhabit tunnel to Threed>" end
