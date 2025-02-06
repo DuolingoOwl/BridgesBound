@@ -99,7 +99,7 @@ l_0xc76b36:
     "@...what??? the fat Minch kid? no way..." end
 
 l_0xc76b87:
-    "[06 69 00 {e(l_0xc76bd2)}]@no im not judy hops" next
+    "[06 69 00 {e(l_0xc76bd2)}]@no im not Judy Hopps" next
     "@stupid" end
 
 l_0xc76bd2:
@@ -127,7 +127,7 @@ l_0xc76e92:
     "@im an undercover cop" end
 
 l_0xc76ec5:
-    "@what if ninja got a low taper fade{wait}" call(data_21.l_0xc6845d) "[1B 03 {e(data_21.l_0xc683de)}]{window_open(1)}" newline
+    "@What if ninja got a low taper fade{wait}" call(data_21.l_0xc6845d) "[1B 03 {e(data_21.l_0xc683de)}]{window_open(1)}" newline
     "@'scuse me!{pause(20)}  Uuuuuh... yeah.{wait}{set(flag 293)}" eob
 
 l_0xc76f20:
@@ -150,8 +150,8 @@ l_0xc76f96:
 
 l_0xc76fb2:
     "[06 CF 00 {e(l_0xc770b0)}][06 CE 00 {e(l_0xc7706a)}][06 CD 00 {e(l_0xc7703f)}][06 CC 00 {e(l_0xc77007)}]@want some help?." next
-    "@sure" next
-    "@my name is" next
+    "@Sure" next
+    "@M name is" next
     "@Flying Man.[03]" eob
 
 l_0xc77007:
@@ -165,14 +165,14 @@ l_0xc7703f:
     "@Let's go![03]" eob
 
 l_0xc7706a:
-    "@i can only count to four[03]" eob
+    "@I can only count to four[03]" eob
 
 l_0xc770b0:
-    "@you suck at this game.[03]" eob
+    "@You suck at this game.[03]" eob
 
 l_0xc77148:
     "@..." next
-    "@sorry,{pause(15)} there's really not much to say..." end
+    "@Sorry,{pause(15)} there's really not much to say..." end
 
 l_0xc7716d:
     "[19 10 02]{store_registers}{result_is(11)}[1B 03 {e(l_0xc7719c)}]{load_registers}{result_is(12)}[1B 03 {e(l_0xc7719c)}]{load_registers}{result_is(13)}[1B 03 {e(l_0xc7719c)}]{load_registers}{result_is(14)}[1B 03 {e(l_0xc7719c)}]{load_registers}{result_is(15)}" goto(l_0xc7719c)
@@ -340,7 +340,7 @@ l_0xc7794c:
     "[06 4A 00 {e(data_32.l_0xc7c588)}]@(im EVIL" next
     "@you can beat to me" next
     "@lololol)[03]" call(data_21.l_0xc6857c) "[1B 03 {e(data_21.l_0xc683de)}]{set(flag 74)}{pause(1)}[1F F1 4E 05 7B 02]{pause(40)}[1F 15 6A 00 00 03 01][1F 61][1F E7 6A 00]{window_open(1)}@([1C 02 01] heard a familiar voice at the center of the Sea of Eden.)" next
-    call(l_0xc77c50) "@i" linebreak
+    call(l_0xc77c50) "@I" linebreak
     " hate" next
     call(l_0xc77c50) "@NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN" next
     call(l_0xc77c50) "@NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN" next
@@ -372,17 +372,17 @@ l_0xc77c50:
 
 l_0xc77c5b:
     "@[1C 02 01]!" next
-    "@are you blue? why are you blue?" end
+    "@Are you blue? Why are you blue?" end
 
 l_0xc77c84:
-    "@its me frosty" next
-    "@i melted" end
+    "@It's me, frosty." next
+    "@I melted." end
 
 l_0xc77cb8:
-    "@i know the name of the girl you used to like. The blueberry girl." end
+    "@I know the name of the girl you used to like. The blueberry girl." end
 
 l_0xc77cd0:
-    "@you remembered me!!!" end
+    "@You remembered me!!!" end
 
 l_0xc77cdf:
     "@WHERE IS FINE SHYT" end
