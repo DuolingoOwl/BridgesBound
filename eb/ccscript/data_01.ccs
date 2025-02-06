@@ -79,7 +79,7 @@ l_0xc52371:
 
 l_0xc5238f:
     "@Even though [1C 02 00] can't put this on, you still want to buy it?" next
-    "@Well, it's your money..." linebreak
+    "@.{wait(5)}.{wait(5)}.{wait(5)}Stupid monkey." linebreak
     eob
 
 l_0xc523be:
