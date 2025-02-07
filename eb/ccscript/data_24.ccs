@@ -142,9 +142,9 @@ l_0xc6cf2d:
 
 l_0xc6cfc5:
     "{window_open(1)}@I am going to touch you violently. {pause(30)}" next
-    "@very very very violently" next
+    "@Very, very, very violently." next
     "@Like,{pause(15)} you're gonna remember this for years to come." next
-    "@Get it? come?[03]{window_closeall}" eob
+    "@Get it? come? .{pause(15)}.{pause(15)}.{pause(15)}fuck you.[03]{window_closeall}" eob
 
 l_0xc6d067:
     "@(Drug Store <Best Friend>)" end
@@ -207,19 +207,19 @@ l_0xc6d50a:
     "@go away" end goto(l_0xc6d561)
 
 l_0xc6d561:
-    "@yknow what fuck it" next
-    "@come on  in[03]{window_closeall}[1F F1 48 03 F2 00][1F 61][1F 1E 48 03 06][1F 17 49 03 08 00 01]{set(flag 374)}{set(flag 10)}" eob
+    "@Y'know what? Fuck it" next
+    "@come on in[03]{window_closeall}[1F F1 48 03 F2 00][1F 61][1F 1E 48 03 06][1F 17 49 03 08 00 01]{set(flag 374)}{set(flag 10)}" eob
 
 l_0xc6d5ae:
-    "@u wanna see venus?" next
-    "@sure (god i want that venussy so badly)[03]{window_closeall}[1F F1 48 03 F2 00][1F 61][1F 1E 48 03 06][1F 17 49 03 08 00 01]{set(flag 374)}{set(flag 9)}" eob
+    "@U wanna see Venus?" next
+    "@Sure (God, I want that Venussy so badly)[03]{window_closeall}[1F F1 48 03 F2 00][1F 61][1F 1E 48 03 06][1F 17 49 03 08 00 01]{set(flag 374)}{set(flag 9)}" eob
 
 l_0xc6d61e:
-    "@wheres [1C 02 01].[03]" eob
+    "@Where's [1C 02 01].[03]" eob
 
 l_0xc6d642:
-    "@wanna see venus? (god i want that venussy so badly)" next
-    "@cmon in" next
+    "@Wanna see Venus? (God, I want that Venussy so badly)" next
+    "@C'mon in" next
     "@hngghhhh[03]" eob
 
 l_0xc6d695:
@@ -251,13 +251,13 @@ l_0xc6d6a1:
     "@..." next
     "@..." next
     "@..." next
-    "@...no, i wont show you my vagina"
+    "@...No, I wont show you my vagina"
     "@...or my pussy..." next
     "@...or my peach..." next
     "@...or my kitty..." next
     "@...or my vulva..." next
-    "@...or my c word that alec cannot say i think im not sure..." next
-    "@...or my- IM NOT SHOWING YOU MY VAGINA EITHER YOU PERVERT" next
+    "@...or my c word that Alec cannot say i think im not sure..." next
+    "@...or my- IM NOT SHOWING YOU MY VAGINA EITHER, YOU PERVERT!" next
     "@..." next
     "@..." next
     "@..." next
@@ -270,7 +270,7 @@ l_0xc6d6a1:
     "@..." next
     "@..." next
     "@..." next
-    "@...no, not my butt either" next
+    "@...No, not my butt either" next
     "@...or my ass..." next
     "@...or my bum..." next
     "@...or my hiney..." next
@@ -281,8 +281,8 @@ l_0xc6d6a1:
     "@...or my buttocks ..." next
     "@...or my arse..." next
     "@...or my gyatt..." next
-    "@...or my- OH MY GOD CAN YOU FUCK OFF YOU STUPID KID PLEASE IM NOT AN OBJECT" next
-    "@(womens rights i hate period cramps 6'5 6'5 6'5 feminist tampons should be free i spent last night crying about the age gap -alec)" next
+    "@...or my- OH MY GOD CAN YOU FUCK OFF YOU STUPID KID? PLEASE, IM NOT AN OBJECT!" next
+    "@(Womens rights I hate period cramps 6'5 6'5 6'5 feminist tampons should be free I spent last night crying about the gender pay gap -alec)" next
     "@..." next
     "@..." next
     "@..." next
