@@ -25,7 +25,7 @@ l_0xc6c565:
     "@Say hi to maxwell pls" end
 
 l_0xc6c606:
-    "[06 0F 00 {e(l_0xc6c63c)}]@there's a robot... and she's... wild... no wait thats just a starman" end
+    "[06 0F 00 {e(l_0xc6c63c)}]@There's a robot... and she's... wild... no wait thats just a starman" end
 
 l_0xc6c63c:
     "@The fuck is happening" end
