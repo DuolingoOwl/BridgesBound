@@ -12,7 +12,13 @@ l_0xc821fe:
 
 l_0xc82250:
     "[1D 15 05 00]{swap}@You don't even have [1C 0A 00 00 00 00] dollars!" next
-    "@You don't deserve to go in the museum." end
+    "@Clerk: You don't deserve to go in the..." linebreak
+    "@[name(1)]: Shut up." next
+    "@Clerk: What? I'm sorry. Please, don't speak to me like that. I'm simply saying..." next
+    "@[name(1)]: Will you shut up? Shut the hell up." next
+    "Clerk: [name(1)], please stop." next
+    "@[name(1)]: Shut up, shut up, shut up, shut up, shut up, SHUT UP, SHUT UP, SHUT UP, SHUT UP, SHUT UP, SHUT UP!" end
+    
 
 l_0xc82285:
     "@The Dinosaur Museum doesn't have real dinosaurs...{pause(20)}  They are all replicas." next
