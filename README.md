@@ -11,11 +11,17 @@ Bridgesbound is a rom hack of Earthbound with custom events, new sprites, and wo
 
 Use the GitHub repository [CoilSnake](https://github.com/pk-hack/CoilSnake) to install CoilSnake. You can read more [here](https://github.com/pk-hack/CoilSnake/blob/master/DEVELOPMENT.md).
 
+### 
+
 ## How to play this rom
 
 1. Using your favorite Git client, clone this repository.
 2. Open CoilSnake
 3. Go the the "Compile" tab
+4. Put your legal base rom in the "Base ROM" path
+5. Put the "eb" folder in the "Project" path
+5. Name your output ROM whatever you want
+6. Press the "Compile" button
 
 ## Contributing
 
