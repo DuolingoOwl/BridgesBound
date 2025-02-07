@@ -236,7 +236,7 @@ l_0xc7b318:
     "[1F 1A 09 04 03]{pause(30)}[1F 1B 09 04]{window_open(1)}@Clerk: Tsk, tsk, tsk...{pause(20)}" linebreak
     "  You should know better...[03]{window_closeall}[1F F1 09 04 67 02][1F 61][1F E6 09 04][19 10 01]{swap}[19 23 09 04 01 00 00][1F 16 09 04 00]{window_open(1)}@You cannot get in without paying admission.{pause(20)}  It's $3 per person." next
     "@You'll pay, won't...{window_closeall}"
-    "@{name(1)}: Shut up." next
+    "{window_open(1)} @{name(1)}: Shut up." next
     "@Clerk: What? I'm sorry. Please, don't speak to me like that. I'm simply saying...{window_closeall}" linebreak
     "{window_open(1)} @{name(1)}: Will you shut up? Shut the hell up." next
     "@Clerk: {name(1)}, please stop. {window_closeall}" linebreak
