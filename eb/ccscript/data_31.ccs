@@ -239,8 +239,8 @@ l_0xc7b318:
     "@{name(1)}: Shut up." next
     "@Clerk: What? I'm sorry. Please, don't speak to me like that. I'm simply saying...{window_closeall}" linebreak
     "{window_open(1)} @{name(1)}: Will you shut up? Shut the hell up." next
-    "@Clerk: {name(1)}, please stop. {window_close(1)}" next
-    "{window_open(1)}@{name(1)}: Shut up, shut up, shut up, shut up, shut up, SHUT UP, SHUT UP, SHUT UP, SHUT UP, SHUT UP, SHUT UP!" end
+    "@Clerk: {name(1)}, please stop. {window_closeall}" next
+    "{window_open(1)}@{name(1)}: Shut up, shut up, shut up, shut up, shut up, SHUT UP, SHUT UP, SHUT UP, SHUT UP, SHUT UP, SHUT UP!{window_closeall}" end
     /*"{open_wallet}[19 02]Yes[02] [19 02]No[02][1C 07 02][11]{clearline}[09 02 {e(l_0xc7b4a2)} {e(l_0xc7b3c0)}]" goto(l_0xc7b3c0)*/
 
 l_0xc7b3c0:
