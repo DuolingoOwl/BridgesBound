@@ -92,18 +92,18 @@ l_0xc5197a:
     "[06 E2 00 {e(l_0xc51ec4)}][06 E3 00 {e(l_0xc51ca3)}][06 E4 00 {e(data_10.l_0xc5bc4c)}][06 E5 00 {e(data_10.l_0xc5bc4c)}][06 E6 00 {e(data_09.l_0xc5bb46)}][06 E7 00 {e(data_10.l_0xc5bc4c)}][06 E8 00 {e(data_09.l_0xc5bb46)}][06 E9 00 {e(l_0xc51ca3)}][06 EA 00 {e(data_01.l_0xc522ca)}][06 EB 00 {e(data_09.l_0xc5b86d)}][06 EC 00 {e(data_10.l_0xc5bd62)}][06 ED 00 {e(data_10.l_0xc5c03c)}][06 EE 00 {e(data_11.l_0xc5cdf2)}][06 EF 00 {e(l_0xc51ca3)}][06 F0 00 {e(l_0xc51ca3)}][06 F1 00 {e(l_0xc51ca3)}][06 F2 00 {e(l_0xc51ca3)}][06 F3 00 {e(data_02.l_0xc5307d)}][06 F4 00 {e(data_09.l_0xc5bb46)}][06 F5 00 {e(l_0xc51ca3)}][06 F6 00 {e(data_12.l_0xc5d1ed)}][06 F7 00 {e(data_10.l_0xc5c57b)}][06 F8 00 {e(data_02.l_0xc533e5)}][06 F9 00 {e(data_02.l_0xc533e5)}][06 FA 00 {e(data_02.l_0xc533e5)}][06 FB 00 {e(l_0xc51ca3)}][06 FC 00 {e(l_0xc51ca3)}][06 FD 00 {e(data_11.l_0xc5c80d)}][06 FE 00 {e(data_02.l_0xc5307d)}][06 FF 00 {e(data_09.l_0xc5bb46)}][06 00 01 {e(data_01.l_0xc522ca)}][06 01 01 {e(l_0xc51ca3)}][06 02 01 {e(data_09.l_0xc5bb46)}][06 03 01 {e(l_0xc51ca3)}][06 04 01 {e(l_0xc520fa)}][06 05 01 {e(data_10.l_0xc5bc4c)}][06 06 01 {e(data_11.l_0xc5cf3d)}][06 07 01 {e(data_02.l_0xc5307d)}][06 08 01 {e(data_10.l_0xc5c2e7)}][06 09 01 {e(data_01.l_0xc524d2)}][06 0A 01 {e(data_10.l_0xc5becd)}][06 0B 01 {e(data_01.l_0xc52796)}][06 0C 01 {e(data_12.l_0xc5d02d)}][06 0D 01 {e(data_11.l_0xc5cb88)}][06 0E 01 {e(data_11.l_0xc5c933)}][06 0F 01 {e(data_01.l_0xc52a92)}][06 44 01 {e(data_10.l_0xc5c1be)}][06 45 01 {e(data_01.l_0xc52d5f)}][06 46 01 {e(data_02.l_0xc5307d)}][06 DE 01 {e(data_10.l_0xc5c03c)}][06 55 02 {e(data_10.l_0xc5c6ec)}][06 56 02 {e(data_11.l_0xc5ccf5)}][06 57 02 {e(data_09.l_0xc5b5fe)}][06 58 02 {e(l_0xc51ca3)}][06 8D 02 {e(data_02.l_0xc5307d)}][06 DB 02 {e(data_02.l_0xc536e1)}][06 DC 02 {e(data_09.l_0xc5ba86)}][06 DD 02 {e(data_11.l_0xc5ca1e)}]" eob
 
 l_0xc51b12:
-    "@yo yo yo whats up" linebreak
-    "  whaddya want" linebreak
+    "@Yo yo yo! What's up?" linebreak
+    "  whaddya want?" linebreak
     eob
 
 l_0xc51b28:
-    "@thanks gang." end
+    "@Thanks, gang." end
 
 l_0xc51b31:
-    "@come back for more" end
+    "@Come back for more!" end
 
 l_0xc51b39:
-    "@hiii!!! want stuff?" linebreak
+    "@Hiii!!! Want stuff?" linebreak
     eob
 
 l_0xc51b49:
@@ -112,14 +112,14 @@ l_0xc51b49:
     eob
 
 l_0xc51b57:
-    "@who wants it[03]" eob
+    "@Who wants it[03]" eob
 
 l_0xc51b6a:
     "@equip?" linebreak
     eob
 
 l_0xc51b7e:
-    "@can i pls have" linebreak
+    "@Can I pls have" linebreak
     "  the [1C 05 00]" linebreak
     "  for {swap}$[1C 0A 00 00 00 00]?" next
     eob
@@ -130,25 +130,25 @@ l_0xc51b9d:
     eob
 
 l_0xc51bb7:
-    "@come back later" next
+    "@Come back later!" next
     eob
 
 l_0xc51bc0:
-    "@poor lol" next
+    "@Poor, lol." next
     eob
 
 l_0xc51bde:
-    "@pockets r full monkey" next
-    "@want me to buy somma ur shit?" linebreak
+    "@Pockets r full, monkey." next
+    "@Want me to buy somma ur shit?" linebreak
     eob
 
 l_0xc51c03:
-    "@what[03]" eob
+    "@What[03]" eob
 
 l_0xc51c0e:
     "@[1C 05 00]?" linebreak
     "  give me it" linebreak
-    "  ill give you {swap}$[1C 0A 00 00 00 00]." next
+    "  I'll give you {swap}$[1C 0A 00 00 00 00]." next
     "@yea?" linebreak
     eob
 
@@ -157,181 +157,181 @@ l_0xc51c38:
     eob
 
 l_0xc51c41:
-    "@you dont have anything i want" next
+    "@You dont have anything I want." next
     eob
 
 l_0xc51c56:
-    "@what? i dont want that!" next
+    "@What? I don't want that!" next
     eob
 
 l_0xc51c6e:
-    "@thx gng" next
+    "@Thx, gng." next
     eob
 
 l_0xc51c78:
-    "@shid" next
+    "@Shid." next
     eob
 
 l_0xc51c87:
-    "@more?" linebreak
+    "@More?" linebreak
     eob
 
 l_0xc51c95:
-    "@what" linebreak
+    "@What?" linebreak
     eob
 
 l_0xc51ca3:
-    "@[1C 02 00] is a fatass" next
-    "@someone else want it" linebreak
+    "@[1C 02 00] is a fatass!" next
+    "@Someone else want it?" linebreak
     eob
 
 l_0xc51ccb:
-    "@get in here" next
-    "@what do you want" linebreak
+    "@Get in here." next
+    "@What do you want?" linebreak
     eob
 
 l_0xc51cef:
-    "@tysm" end
+    "@Tysm!" end
 
 l_0xc51cfa:
     "@NOTHGNG???" next
-    "@KILL YOURSELF" end
+    "@KILL YOURSELF!" end
 
 l_0xc51d20:
-    "@moneeeey???[03]" eob
+    "@Moneeeey???[03]" eob
 
 l_0xc51d31:
     "@[1C 05 00]?" next
     eob
 
 l_0xc51d39:
-    "@who want it[03]" eob
+    "@Who want it[03]" eob
 
 l_0xc51d45:
-    "@equip?" linebreak
+    "@Equip?" linebreak
     eob
 
 l_0xc51d5b:
-    "@give me the" linebreak
+    "@Give me the" linebreak
     "  [1C 05 00]" linebreak
     "  for {swap}$[1C 0A 00 00 00 00]." next
     eob
 
 l_0xc51d7b:
-    "@[1C 02 00]  cant equip it" next
-    "@u still want it?" linebreak
+    "@[1C 02 00] can't equip it" next
+    "@U still want it?" linebreak
     eob
 
 l_0xc51d96:
-    "@pussy" next
+    "@Pussy." next
     eob
 
 l_0xc51db0:
     "@LMAO" linebreak
-    "  BROKE HAHAHA" next
+    "  BROKE HAHAHA!" next
     eob
 
 l_0xc51dcb:
-    "@shit" next
-    "@youre too fat" next
-    "@gimmie stuff" next
+    "@Shit!" next
+    "@You're too fat." next
+    "@Gimme stuff." next
     eob
 
 l_0xc51e14:
-    "@what[03]" eob
+    "@What[03]" eob
 
 l_0xc51e1f:
     "@[1C 05 00]?" linebreak
-    "  ill give ya {swap}$[1C 0A 00 00 00 00]." next
+    "  I'll give ya {swap}$[1C 0A 00 00 00 00]." next
     "@???" linebreak
     eob
 
 l_0xc51e4a:
-    "@bruh" linebreak
-    "  bruh" next
+    "@Bruh." linebreak
+    "  Bruh." next
     eob
 
 l_0xc51e67:
-    "@u got nothing???" next
+    "@U got nothing???" next
     eob
 
 l_0xc51e81:
-    "@what?" linebreak
-    "  i dont want that!" next
+    "@What?" linebreak
+    "  I dont want that!" next
     eob
 
 l_0xc51e95:
-    "@cool" next
+    "@Cool" next
     eob
 
 l_0xc51ea1:
-    "@ok" next
+    "@Ok" next
     eob
 
 l_0xc51ea9:
-    "@anyhting else?" linebreak
+    "@Anything else?" linebreak
     eob
 
 l_0xc51eb6:
-    "@what" linebreak
+    "@What?" linebreak
     eob
 
 l_0xc51ec4:
-    "@[1C 02 00] is too fat for this" next
-    "@anyone else want it?" linebreak
+    "@[1C 02 00] is too fat for this!" next
+    "@Anyone else want it?" linebreak
     eob
 
 l_0xc51eea:
-    "@hi nig- oops" linebreak
-    "  i mean uh" linebreak
-    "  sup gng" next
-    "@what u want" linebreak
+    "@Hi, nig- oops" linebreak
+    "  I mean uh" linebreak
+    "  'sup gng" next
+    "@What u want?" linebreak
     eob
 
 l_0xc51f2c:
-    "@thanks my nig- err" linebreak
-    "  byeeeee" end
+    "@Thanks, my nig- err" linebreak
+    "  byeeeee!" end
 
 l_0xc51f45:
-    "@come back please" end
+    "@Come back, please!" end
 
 l_0xc51f62:
-    "@what do u want[03]" eob
+    "@What do u want[03]" eob
 
 l_0xc51f74:
     "@[1C 05 00]?" next
     eob
 
 l_0xc51f7c:
-    "@who?[03]" eob
+    "@Who[03]" eob
 
 l_0xc51f91:
-    "@EQUIPP?!??!?!?" linebreak
+    "@EQUIP?!??!?!?" linebreak
     eob
 
 l_0xc51fa7:
-    "@gimmie the" linebreak
+    "@Gimmie the" linebreak
     "  [1C 05 00]" linebreak
     "  for {swap}$[1C 0A 00 00 00 00]" linebreak
     eob
 
 l_0xc51fc8:
-    "@[1C 02 00] is too stupid for that" next
-    "  u still want it?" linebreak
+    "@[1C 02 00] is too stupid for that!" next
+    "  U still want it?" linebreak
     eob
 
 l_0xc51fe7:
-    "@bye" next
+    "@Bye!" next
     eob
 
 l_0xc51ff8:
-    "@yall r broke" linebreak
-    "  monkey monkey monkey monkey monkey" next
+    "@Y'all r broke!" linebreak
+    "  monkey monkey monkey monkey monkey." next
     eob
 
 l_0xc5201d:
     "@MONKEYS!" linebreak
-    "  YOURE TOO FAT!" next
+    "  YOU'RE TOO FAT!" next
     "@GIVE ME SOMETHING" linebreak
     eob
 
@@ -339,33 +339,33 @@ l_0xc52059:
     "@PLEASE?[03]" eob
 
 l_0xc5206d:
-    "@the [1C 05 00]?" linebreak
-    "  ill give you {swap}$[1C 0A 00 00 00 00]." next
+    "@The [1C 05 00]?" linebreak
+    "  I'll give you {swap}$[1C 0A 00 00 00 00]." next
     "@PLEASE?" linebreak
     eob
 
 l_0xc5209b:
-    "@k" next
+    "@K." next
     eob
 
 l_0xc520a2:
-    "@u dont got nothing" next
+    "@U don't got nothing." next
     eob
 
 l_0xc520b9:
-    "@nah" next
+    "@Nah" next
     eob
 
 l_0xc520cf:
-    "@ty" next
+    "@Ty" next
     eob
 
 l_0xc520d5:
-    "@thx" next
+    "@Thx" next
     eob
 
 l_0xc520e1:
-    "@what else" linebreak
+    "@What else?" linebreak
     eob
 
 l_0xc520f1:
@@ -374,19 +374,19 @@ l_0xc520f1:
 
 l_0xc520fa:
     "@[1C 02 00] too much" next
-    "@who else" linebreak
+    "@Who else" linebreak
     eob
 
 l_0xc5211e:
-    "@hi" next
-    "@i want money" linebreak
+    "@Hi." next
+    "@I want money." linebreak
     eob
 
 l_0xc52130:
-    "@cool" end
+    "@Cool." end
 
 l_0xc52139:
-    "@loser" end
+    "@Loser." end
 
 l_0xc52154:
     "@So, what are you going to buy?[03]" eob
