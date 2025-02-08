@@ -258,7 +258,7 @@ l_0xc6928a:
     "@talk tuah me again{wait}{set(flag 8)}" eob
 
 l_0xc692a0:
-    "@heres so cash" next
+    "@heres some cash" next
     "@*Ka-ching*" next
     "[1D 08 32 00]{sound(116)}{open_wallet}{pause(60)}[19 10 01]{rtoarg}@([1C 02 01] got 50 dollars.){wait}{set(flag 738)}" eob goto(l_0xc692ea)
 
