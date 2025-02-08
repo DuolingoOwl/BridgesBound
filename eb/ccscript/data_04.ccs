@@ -10,54 +10,54 @@ command e(label) "{long label}"
 l_0xc54bb0:
     newline
     " <[1C 05 88]>" next
-    call(data_05.l_0xc56db7) "@sucks hp like kim kardashian sucks cock" next
-    "@more enemy hp = more you hp" next
+    call(data_05.l_0xc56db7) "@Sucks HP like Kim Kardashian sucks cock" next
+    "@More enemy HP = more you HP" next
     call(data_05.l_0xc56d9b) end
 
 l_0xc54bfa:
     newline
     " <[1C 05 89]>" next
-    "@bug killer" next
+    "@Bug killer" next
     call(data_05.l_0xc56d9b) end
 
 l_0xc54c32:
     newline
     " <[1C 05 8A]>" next
-    call(data_05.l_0xc56db7) "@sprays cum on the enemies (sticky)" next
+    call(data_05.l_0xc56db7) "@Sprays cum on the enemies (sticky)" next
     call(data_05.l_0xc56d9b) end
 
 l_0xc54c6d:
     newline
     " <[1C 05 8B]>" next
-    call(data_05.l_0xc56db7) "@apple kid stuff" next
-    "@does damage but its just ice cream" next
+    call(data_05.l_0xc56db7) "@Apple kid stuff" next
+    "@Does damage but it's just ice cream" next
     call(data_05.l_0xc56d9b) end
 
 l_0xc54ceb:
     newline
     " <[1C 05 8C]>" next
-    "@also works in battle" next
+    "@Also works in battle" next
     call(data_05.l_0xc56d9b) end
 
 l_0xc54d10:
     newline
     " <[1C 05 8D]>" next
-    "@so like" next
-    "@a thousand snakes are like yo im a thousand snakes " next
-    "@so you should be able to use it over and over again." next
+    "@So like" next
+    "@A thousand snakes are like yo I'm a thousand snakes. " next
+    "@So you should be able to use it over and over again." next
     "@and then they poison the enemy" end
 
 l_0xc54d99:
     newline
     " <[1C 05 8E]>" next
-    "@whip like a belt" next
-    "@enemy may quiver in fear" next
+    "@Whips like a belt" next
+    "@Enemy may quiver in fear" next
     call(data_05.l_0xc56dab) end
 
 l_0xc54ddc:
     newline
     " <[1C 05 8F]>" next
-    "@battle reasdy" next
+    "@Battle ready" next
     call(data_05.l_0xc56d9b) end
 
 l_0xc54e01:
@@ -72,28 +72,28 @@ l_0xc54e1d:
 l_0xc54e20:
     newline
     " <[1C 05 91]>" next
-    call(data_05.l_0xc56db7) "@she bottle on my rocket" next
+    call(data_05.l_0xc56db7) "@She bottle on my rocket" next
     call(data_05.l_0xc56dab) end
 
 l_0xc54e54:
     newline
     " <[1C 05 92]>" next
-    call(data_05.l_0xc56db7) "@strong af" next
-    "@yeah" next
+    call(data_05.l_0xc56db7) "@Strong af" next
+    "@Yeah" next
     call(data_05.l_0xc56dab) end
 
 l_0xc54ea7:
     newline
     " <[1C 05 93]>" next
     call(data_05.l_0xc56dc5) next
-    "@big boom" next
-    "@really cool " next
+    "@Big boom" next
+    "@Really cool " next
     call(data_05.l_0xc56dab) end
 
 l_0xc54ef7:
     newline
     " <[1C 05 94]>" next
-    "@a lot of boom  " next
+    "@A lot of boom  " next
     "@like," next
     "@KABLAM" next
     call(data_05.l_0xc56dab) end
@@ -101,19 +101,20 @@ l_0xc54ef7:
 l_0xc54f6a:
     newline
     " <[1C 05 95]>" next
-    "@bug-fucker" next
+    "@Bug-fucker" next
     call(data_05.l_0xc56dab) end
 
 l_0xc54fa2:
     newline
     " <[1C 05 96]>" next
-    "@be carful metallica" next
+    "@Be carful metallica" next
     call(data_05.l_0xc56dab) end
 
 l_0xc54ff0:
     newline
     " <[1C 05 97]>" next
-    "@makes enemy bust i mean rust" next
+    "@Makes enemy bust I mean..." clearline
+    "@Makes enemy bust rust" next
     "@watch out metallica" next
     "@pray emojis" next
     call(data_05.l_0xc56dab) end
@@ -121,28 +122,28 @@ l_0xc54ff0:
 l_0xc55057:
     newline
     " <[1C 05 98]>" next
-    "@enemy gets nausisoes from max cheslers scent and " next
+    "@Enemy gets nauseous from Max Cheslers scent and " next
     "@they cannot fight." next
     call(data_05.l_0xc56dab) end
 
 l_0xc5509e:
     newline
     " <[1C 05 99]>" next
-    "@throw at enemy and" next
-    "@they become shocked" next
+    "@Throw at enemy and " next
+    "@they become shocked." next
     call(data_05.l_0xc56dab) end
 
 l_0xc550e3:
     newline
     " <[1C 05 9A]>" next
-    "@battle." next
+    "@Battle." next
     call(data_05.l_0xc56dab) end
 
 l_0xc55105:
     newline
     " <[1C 05 9B]>" next
-    "@whip like belt" next
-    "@the enemy takes enough damage to stop moving for a short time." next
+    "@Whips like a belt" next
+    "@The enemy takes enough damage to stop moving for a short time." next
     call(data_05.l_0xc56dab) end
 
 l_0xc5514f:
@@ -155,7 +156,7 @@ l_0xc5514f:
 l_0xc5519f:
     newline
     " <[1C 05 9D]>" next
-    "@im getting tired of item descriptios bro" next
+    "@I'm getting tired of item descriptions bro" next
     call(data_05.l_0xc56b0d) next
     call(data_05.l_0xc56d9b) end
 
@@ -320,7 +321,7 @@ l_0xc55794:
 l_0xc557e7:
     newline
     " <[1C 05 B9]>" next
-    "@A copy of a hieroglyph." next
+    "@A replica of maxims 35 in the book of Ptahhotep." next
     "@Something important is recorded in the ancient characters." end
 
 l_0xc55831:
