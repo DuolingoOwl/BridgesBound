@@ -443,12 +443,12 @@ l_0xc6a458:
     "@you will get more power than if you ate the food item plain." end
 
 l_0xc6a4f2:
-    "@this is the mickey mouse clubhouse" next
-    "@come inside, it's fun inside" next
-    "@mickey and minnie had kids, minnie died so mickey is a stay at home dad now" end
+    "@This is the Mickey Mouse clubhouse" next
+    "@Come inside, it's fun inside" next
+    "@Mickey and minnie had kids, Minnie died so Mickey is a stay at home dad now" end
 
 l_0xc6a551:
-    "@i want my mommy" next
+    "@I want my mommy!!" next
     "@SDHJABSFLSHASLFHAKFJLASHKF sorry that was my constipation" end
 
 l_0xc6a5e0:
